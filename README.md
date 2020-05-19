@@ -2,4 +2,5 @@
 
 This is the code repository for The Testers Hub Android application
 
-Developer: Giridhar Rajkumar
+## Author
+Giridhar Rajkumar
